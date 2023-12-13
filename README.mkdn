@@ -4,7 +4,7 @@ LegacyOS
 Getting started
 ---------------
 
-To get started with Android/LwgacyeOS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
+To get started with Android/LegacyOS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
 
 To initialize your local repository using the LegacyOS trees, use a command like this:
 ```
