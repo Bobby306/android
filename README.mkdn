@@ -1,14 +1,14 @@
-LineageOS
+LegacyOS
 ===========
 
 Getting started
 ---------------
 
-To get started with Android/LineageOS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
+To get started with Android/LwgacyeOS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
 
-To initialize your local repository using the LineageOS trees, use a command like this:
+To initialize your local repository using the LegacyOS trees, use a command like this:
 ```
-repo init -u https://github.com/LineageOS/android.git -b lineage-20.0 --git-lfs
+repo init -u https://github.com/Bobby306/android.git -b lineage-20.0 --git-lfs
 ```
 Then to sync up:
 ```
@@ -19,16 +19,18 @@ Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instru
 
 Submitting patches
 ------------------
-Patches are always welcome! Please submit your patches via LineageOS Gerrit!
+Patches are always welcome! Please submit your patches via LineageOS Gerrit for source patches!
 
 Simply follow our guide on [how to submit patches](https://wiki.lineageos.org/submitting-patch-howto.html).
 
 To view the status of your and others' patches, visit [LineageOS Gerrit Code Review](https://review.lineageos.org/).
 
 
-Buildbot
+Buildbot Not Availab;e
 --------
 
+
+IGNORE
 All supported devices are built weekly and periodically as changes are committed to ensure the source trees remain buildable.
 
 You can view the current build statuses at [LineageOS Buildkite](https://buildkite.com/lineageos).
